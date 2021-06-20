@@ -8,7 +8,7 @@ Hi I attended 1-Week National Workshop on "Data Analytics With Python" from 21-2
 <li>Machine Learning
 <li>Visualization Techniques
 <li>Project Understanding
-<br>
+<br><br>
 During this 1-Week, everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
   

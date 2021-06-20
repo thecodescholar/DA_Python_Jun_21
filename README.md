@@ -18,7 +18,7 @@ I got to learn a lot during this 1-Week and  it was an amazing experience learni
 
 <br><br>Here's the link for you to watch the sessions as well<br>
  
-<a href="https://youtube.com/playlist?list=PL3Hnv9OFTJvXgKw-XWGLbUEkDNEk4Tg7F"> <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
+<a href="https://youtube.com/playlist?list=PL3Hnv9OFTJvXgKw-XWGLbUEkDNEk4Tg7F"> <img src="https://github.com/thecodescholar/DA_Python_Jun_21/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
 
 
 I enjoyed this 1-Week, you can as well. To register for next free 7 days bootcamp, visit:
